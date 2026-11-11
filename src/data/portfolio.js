@@ -148,13 +148,12 @@ export const projects = [
     featured: true
   },
   {
-    number: "11",
-    name: "Personal Portfolio",
-    category: "Creative Development",
-    description: "This portfolio: an interactive personal website combining 3D visuals, smooth scrolling, scroll-triggered motion, responsive layouts and project storytelling.",
-    stack: ["React", "Three.js", "React Three Fiber", "GSAP", "Lenis", "Framer Motion"],
-    url: "",
-    featured: true,
-    ongoing: true
-  }
+  number: "11",
+  name: "Personal Portfolio",
+  category: "Creative Development",
+  description: "My personal portfolio featuring interactive 3D visuals, smooth scrolling, scroll-triggered animations, responsive layouts and creative project storytelling.",
+  stack: ["React", "Three.js", "React Three Fiber", "GSAP", "Lenis", "Framer Motion"],
+  url: "https://portfolio-6ws16ccau-sagarshivani6299-stack.vercel.app/",
+  featured: true
+}
 ];
